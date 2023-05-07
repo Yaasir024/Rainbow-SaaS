@@ -6,10 +6,10 @@
         <ul class="mr-[36px] mb-[20px]">
           <li class="alpha-black mb-[8px]">Products</li>
           <li class="link mb-[8px]">
-            <RouterLink to="/"> Payments </RouterLink>
+            <RouterLink to="/payment-service"> Payments </RouterLink>
           </li>
           <li class="link mb-[8px]">
-            <RouterLink to="/"> Business Incorporation </RouterLink>
+            <RouterLink to="/business-incorporation"> Business Incorporation </RouterLink>
           </li>
           <li class="link">
             <RouterLink to="/"> Payroll and Tax </RouterLink>
