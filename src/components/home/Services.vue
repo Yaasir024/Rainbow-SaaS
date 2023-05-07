@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-[#45DEFE] py-[70px] px-[20px] flex flex-col items-center">
+  <section class="services py-[70px] px-[20px] flex flex-col items-center">
     <h3 class="text-[20px] sm:text-[24px] leading-[24px] font-tomato text-center">
       From One Horizon to Another:
     </h3>
@@ -58,3 +58,11 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+.services {
+  background-image: url(./../../../images/bg/services-bg-min.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
