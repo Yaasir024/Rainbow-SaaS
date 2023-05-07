@@ -45,7 +45,11 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         </div>
       </div>
     </div>
-    <img src="@/assets/images/home/map.svg" alt="" class="mb-[-370px]" />
+    <img
+      src="@/assets/images/home/map.svg"
+      alt=""
+      class="mb-[-500px] xs:mb-[-450px] sm:mb-[-370px] translate-y-[5%] xs:translate-y-[35%] sm:translate-y-0"
+    />
   </section>
 </template>
 
