@@ -1,5 +1,12 @@
+<script setup>
+import BoltBtn from "@/components/buttons/TypeBolt.vue";
+import BorderBtn from "@/components/buttons/TypeBorder.vue";
+</script>
+
 <template>
-  <section class="hero flex flex-col items-center px-[20px] pt-[145px] min-h-screen bg-blue-500">
+  <section
+    class="hero flex flex-col items-center px-[20px] pt-[145px] min-h-screen bg-[#080841]"
+  >
     <RouterLink to="/about" class=""
       ><div class="badge-container px-[10px] py-[6px] flex items-center w-fit">
         <button
@@ -24,6 +31,18 @@
     >
       Enabling global businesses to scale in Africa without paperwork
     </p>
+    <div class="flex items-center mt-[32px]">
+      <div class="mr-[16px]">
+        <RouterLink to="/">
+          <BoltBtn text="get started" />
+        </RouterLink>
+      </div>
+      <div class="">
+        <RouterLink to="/">
+          <BorderBtn text="learn more" />
+        </RouterLink>
+      </div>
+    </div>
     <!-- <img src="@/assets/images/home/hero-illustration.svg" alt="" class="" /> -->
   </section>
 </template>
