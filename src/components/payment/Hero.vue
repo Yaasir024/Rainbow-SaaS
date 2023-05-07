@@ -32,8 +32,8 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
         Connect with your customers and increase sales in Africa with our
         reliable payment collection infrastructure
       </p>
-      <div class="flex items-center mt-[32px]">
-        <div class="mr-[16px]">
+      <div class="flex items-center flex-col xs:flex-row mt-[32px]">
+        <div class="mb-[20px] xs:mb-0 xs:mr-[16px]">
           <RouterLink to="/">
             <BoltBtn text="get started" />
           </RouterLink>
