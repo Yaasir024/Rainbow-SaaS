@@ -7,7 +7,7 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
   <section
     class="hero flex flex-col 2xl:flex-row justify-between bg-[#ffeede] pt-[80px]"
   >
-    <div class="pl-[40px] md:pl-[110px] pr-[40px] xl:pr-0 pt-[65px] pb-[156px]">
+    <div class="flex flex-col items-center md:items-start  pl-[40px] md:pl-[110px] pr-[40px] xl:pr-0 pt-[65px] pb-[156px]">
       <RouterLink to="/" class=""
         ><div
           class="badge-container px-[10px] py-[6px] flex items-center w-fit"
@@ -24,12 +24,12 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
           /></div
       ></RouterLink>
       <h1
-        class="text-[30px] sm:text-[48px] md:text-[64px] leading-[38px] sm:leading-[54px] md:leading-[68px] font-semibold max-w-[580px] mt-[32px] font-tomato text-rb-dark"
+        class="text-[30px] sm:text-[48px] md:text-[64px] leading-[38px] sm:leading-[54px] md:leading-[68px] font-semibold max-w-[580px] mt-[32px] font-tomato text-rb-dark  text-center md:text-left"
       >
         Rainbow simplifies business incorporation in Africa
       </h1>
       <p
-        class="mt-[24px] text-[20px] leading-[28px] tracking-[-0.014em] max-w-[580px] text-rb-primary-900/60"
+        class="mt-[24px] text-[20px] leading-[28px] tracking-[-0.014em] max-w-[580px] text-rb-primary-900/60  text-center md:text-left"
       >
         Connect with your customers and increase sales in Africa with our
         reliable payment collection infrastructure

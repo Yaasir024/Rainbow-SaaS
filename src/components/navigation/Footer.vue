@@ -1,7 +1,7 @@
 <template>
   <footer class="">
     <div class="bg-white pt-[48px] px-[40px] md:px-[120px] pb-[165px] flex flex-col md:flex-row md:justify-between">
-      <img src="@/assets/logo/icon.svg" alt="" class="h-[42px]" />
+      <img src="@/assets/logo/icon.svg" alt="" class="h-[42px] w-[42px]" />
       <div class="flex flex-col xs:flex-row mt-[20px] md:mt-0">
         <ul class="mr-[36px] mb-[20px]">
           <li class="alpha-black mb-[8px]">Products</li>

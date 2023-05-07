@@ -14,8 +14,8 @@
       <p
         class="mt-[24px] text-[18px] leading-[26px] tracking-[-0.012em] max-w-[580px] text-rb-primary-900/60 text-center"
       >
-        Connect with your customers and increase sales in Africa with our
-        reliable payment collection infrastructure
+        Whether you're registering a new business in Africa, trying to scale
+        your business operations in Kenya, we've got you covered.
       </p>
     </div>
     <div class="explore flex flex-wrap mt-[64px] overflow-hidden">
@@ -37,24 +37,51 @@
       </div>
     </div>
     <div class="flex flex-wrap items-center justify-center mt-[64px]">
-        <div class="p-[12px]">
-            <div class="">
-                <h2 class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900">Business Identity</h2>
-                <p class="text-[16px] leading-[24px] tracking-[-0.01em] mt-[16px] max-w-[380px] text-center text-rb-primary-900/60">Protect your business brand from the risk of being impersonated with a proper incorporation</p>
-            </div>
+      <div class="p-[12px]">
+        <div class="">
+          <h2
+            class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900"
+          >
+            Business Identity
+          </h2>
+          <p
+            class="text-[16px] leading-[24px] tracking-[-0.01em] mt-[16px] max-w-[380px] text-center text-rb-primary-900/60"
+          >
+            Protect your business brand from the risk of being impersonated with
+            a proper incorporation
+          </p>
         </div>
-        <div class="p-[12px]">
-            <div class="">
-                <h2 class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900">Access New Markets</h2>
-                <p class="text-[16px] leading-[24px] tracking-[-0.01em] mt-[16px] max-w-[380px] text-center text-rb-primary-900/60">Reach more and more customers in the African emerging market and grow revenue exponentially</p>
-            </div>
+      </div>
+      <div class="p-[12px]">
+        <div class="">
+          <h2
+            class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900"
+          >
+            Access New Markets
+          </h2>
+          <p
+            class="text-[16px] leading-[24px] tracking-[-0.01em] mt-[16px] max-w-[380px] text-center text-rb-primary-900/60"
+          >
+            Reach more and more customers in the African emerging market and
+            grow revenue exponentially
+          </p>
         </div>
-        <div class="p-[12px]">
-            <div class="">
-                <h2 class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900">Boost Trust</h2>
-                <p class="text-[16px] leading-[24px] tracking-[-0.01em] mt-[16px] max-w-[380px] text-center text-rb-primary-900/60">Boost your customers’ confidence in your business with a proper local business identity</p>
-            </div>
+      </div>
+      <div class="p-[12px]">
+        <div class="">
+          <h2
+            class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900"
+          >
+            Boost Trust
+          </h2>
+          <p
+            class="text-[16px] leading-[24px] tracking-[-0.01em] mt-[16px] max-w-[380px] text-center text-rb-primary-900/60"
+          >
+            Boost your customers’ confidence in your business with a proper
+            local business identity
+          </p>
         </div>
+      </div>
     </div>
   </section>
 </template>
