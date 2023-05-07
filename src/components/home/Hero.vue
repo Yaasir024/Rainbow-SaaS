@@ -5,7 +5,7 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
 
 <template>
   <section
-    class="hero flex flex-col items-center px-[20px] pt-[145px] min-h-screen bg-[#080841]"
+    class="hero flex flex-col items-center px-[20px] pt-[145px] min-h-screen"
   >
     <RouterLink to="/about" class=""
       ><div class="badge-container px-[10px] py-[6px] flex items-center w-fit">
@@ -43,11 +43,15 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         </RouterLink>
       </div>
     </div>
-    <!-- <img src="@/assets/images/home/hero-illustration.svg" alt="" class="" /> -->
   </section>
 </template>
 
 <style scoped>
+.hero {
+  background-image: url(./../../../images/bg/hero-bg-min.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .badge-container {
   background: rgba(255, 255, 255, 0.1);
 
