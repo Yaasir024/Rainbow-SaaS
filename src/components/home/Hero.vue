@@ -4,8 +4,8 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
 </script>
 
 <template>
-  <section class="hero pt-[145px] overflow-hidden">
-    <div class="flex flex-col items-center px-[20px] mb-[60px]">
+  <section class="hero pt-[145px] overflow-hidden relative min-h-screen">
+    <div class="flex flex-col items-center px-[20px] mb-[200px] xs:mb-[300px] md:mb-[350px] xl:mb-[420px]">
       <RouterLink to="/about" class=""
         ><div
           class="badge-container px-[10px] py-[6px] flex items-center w-fit"
@@ -45,11 +45,11 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         </div>
       </div>
     </div>
-    <!-- <img
+    <img
       src="@/assets/images/home/map.svg"
       alt=""
-      class="mb-[-500px] xs:mb-[-450px] sm:mb-[-370px]"
-    /> -->
+      class="absolute left-0 bottom-[0px] translate-y-[50%] xs:translate-y-[60%] block 2xl:hidden w-full"
+    />
   </section>
 </template>
 
