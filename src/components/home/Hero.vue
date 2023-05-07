@@ -4,7 +4,7 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
 </script>
 
 <template>
-  <section class="hero pt-[145px] min-h-screen overflow-hidden">
+  <section class="hero pt-[145px] overflow-hidden">
     <div class="flex flex-col items-center px-[20px] mb-[60px]">
       <RouterLink to="/about" class=""
         ><div
@@ -48,7 +48,7 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
     <img
       src="@/assets/images/home/map.svg"
       alt=""
-      class="mb-[-500px] xs:mb-[-450px] sm:mb-[-370px] translate-y-[5%] xs:translate-y-[35%] sm:translate-y-0"
+      class="mb-[-500px] xs:mb-[-450px] sm:mb-[-370px]"
     />
   </section>
 </template>
