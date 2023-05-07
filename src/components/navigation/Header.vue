@@ -3,7 +3,11 @@ import { ref, onMounted } from "vue";
 
 import { useClickOutside } from "@/composables/useClickOutside";
 
+import ProductMenu from "@/components/navigation/ProductMenu.vue";
+import MobileMenu from "@/components/navigation/MobileMenu.vue";
 import MainBtn from "@/components/buttons/TypeMain.vue";
+
+const showMobileNav = ref(false);
 
 const showProductsMenu = ref(false);
 const productMenu = ref(null);
@@ -47,12 +51,12 @@ useClickOutside(productMenu, () => {
                 </svg>
               </button>
             </div>
-            <!-- <transition name="menu">
-              <FeaturesMenu
-                v-if="showFeaturesMenu"
-                @close="showFeaturesMenu = false"
+            <transition name="menu">
+              <ProductMenu
+                v-if="showProductsMenu"
+                @close="showProductsMenu = false"
               />
-            </transition> -->
+            </transition>
           </li>
           <li class="link mr-[32px]">
             <RouterLink to="/">
@@ -83,7 +87,10 @@ useClickOutside(productMenu, () => {
         </RouterLink>
       </div>
       <div class="block lg:hidden">
-        <button class="flex items-center justify-center">
+        <button
+          class="flex items-center justify-center"
+          @click="showMobileNav = !showMobileNav"
+        >
           <svg
             width="32"
             height="32"
@@ -106,6 +113,9 @@ useClickOutside(productMenu, () => {
             ></path>
           </svg>
         </button>
+        <transition name="nav">
+          <MobileMenu v-if="showMobileNav" @close="showMobileNav = false" />
+        </transition>
       </div>
     </div>
   </header>

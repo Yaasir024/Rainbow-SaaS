@@ -22,7 +22,7 @@
       <div class="xs:ml-[20px] md:ml-[68px]">
         <span class="text-[20px] leading-[24px]"> Global Payment Service </span>
         <h1
-          class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] font-bold mt-[8px] max-w-[718px] font-tomato"
+          class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] tracking-[0.02em] font-bold mt-[8px] max-w-[718px] font-tomato"
         >
           Access payment services, increase revenue.
         </h1>
@@ -113,7 +113,7 @@
           In-country Business Incorporation
         </span>
         <h1
-          class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] font-bold mt-[8px] max-w-[718px] font-tomato"
+          class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] tracking-[0.02em] font-bold mt-[8px] max-w-[718px] font-tomato"
         >
           In-country Business Incorporation
         </h1>
@@ -190,7 +190,7 @@
           Payroll and Tax Compliance
         </span>
         <h1
-          class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] font-bold mt-[8px] max-w-[718px] font-tomato"
+          class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] tracking-[0.02em] font-bold mt-[8px] max-w-[718px] font-tomato"
         >
           Facilitate payroll and invoice payments - from anywhere.
         </h1>
