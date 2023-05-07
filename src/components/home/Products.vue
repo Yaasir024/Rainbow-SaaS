@@ -124,7 +124,7 @@
           anywhere, eliminating complexity around paperwork
         </h3>
         <div
-          class="mt-[60px] bg-[#FFEEDE] border border-[#CADCE0] rounded-[30px] overflow-hidden w-full"
+          class="mt-[60px] bg-[#FFEEDE] border border-[#FFEEDE] rounded-[30px] overflow-hidden w-full"
         >
           <div class="relative z-10 gap-5 lg:flex">
             <div
@@ -201,7 +201,7 @@
           in their local currencies
         </h3>
         <div
-          class="mt-[60px] bg-[#DEFFDF] border border-[#CADCE0] rounded-[30px] overflow-hidden w-full"
+          class="mt-[60px] bg-[#DEFFDF] border border-[#DEFFDF] rounded-[30px] overflow-hidden w-full"
         >
           <div class="relative z-10 gap-5 lg:flex">
             <div
