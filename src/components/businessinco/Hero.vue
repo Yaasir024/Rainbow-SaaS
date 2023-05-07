@@ -30,7 +30,7 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
         Rainbow simplifies business incorporation in Africa
       </h1>
       <p
-        class="mt-[24px] text-[20px] leading-[28px] max-w-[580px] text-rb-primary-900/60"
+        class="mt-[24px] text-[20px] leading-[28px] tracking-[-0.014em] max-w-[580px] text-rb-primary-900/60"
       >
         Connect with your customers and increase sales in Africa with our
         reliable payment collection infrastructure
