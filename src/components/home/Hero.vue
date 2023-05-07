@@ -4,7 +4,7 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
 </script>
 
 <template>
-  <section class="hero pt-[145px] overflow-hidden relative min-h-screen">
+  <section class="hero pt-[145px] overflow-hidden relative min-h-[calc(100vh_-_80px)]">
     <div class="flex flex-col items-center px-[20px] mb-[200px] xs:mb-[300px] md:mb-[350px] xl:mb-[420px]">
       <RouterLink to="/about" class=""
         ><div
