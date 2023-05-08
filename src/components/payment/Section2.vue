@@ -26,7 +26,7 @@
         </p>
       </div>
       <div class="flex-full lg:flex-50% flex justify-end">
-        <img src="@/assets/images/payment/transaction-history.png" alt="" class="" />
+        <img src="@/assets/images/payment/transaction-history.png" alt="" class="mt-[-5px]" />
       </div>
     </div>
     <div class="flex flex-wrap items-center justify-center mt-[64px]">

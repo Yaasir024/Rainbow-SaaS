@@ -1,5 +1,5 @@
 <template>
-  <section class="px-[25px] xs:px-[40px] md:px-[112px] mb-[280px] pt-[150px] xs:pt-0">
+  <section class="px-[25px] xs:px-[40px] md:px-[70px] 2xl:pl-[150px] mb-[280px] pt-[150px] xs:pt-0">
     <img src="@/assets/images/home/products/line-1.svg" alt="" class="hidden xs:block" />
     <!-- 1 -->
     <div class="section-1 flex mt-[20px] w-full">
