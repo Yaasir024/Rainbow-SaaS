@@ -23,12 +23,11 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         Commerce.
       </h1>
       <p class="text-[16px] sm:text-[20px] leading-[20px] sm:leading-[28px] tracking-[-0.014em] max-w-[580px] mt-[24px] text-white text-center"
-        data-aos="fade-up" data-aos-delay="10"  data-aos-easing="ease-in-out">
+        data-aos-delay="10" data-aos-easing="ease-in-out">
 
         Enabling global businesses to scale in Africa without paperwork
       </p>
-      <div class="flex items-center mt-[32px]" data-aos="fade-up" data-aos-delay="30" 
-        data-aos-easing="ease-in-out">
+      <div class="flex items-center mt-[32px]" data-aos-delay="30" data-aos-easing="ease-in-out">
         <div class="mr-[16px]">
           <RouterLink to="/">
             <BoltBtn text="get started" />
