@@ -14,9 +14,9 @@ const animate = () => {
 }
 
 onMounted(() => {
+  animate()
   setTimeout(() => {
 
-    animate()
   }, '500')
 })
 </script>
@@ -30,7 +30,11 @@ onMounted(() => {
             class="text-[14px] leading-[20px] font-medium text-rb-dark tracking-[-0.01em] bg-[#EDEDF1] rounded-[20px] py-1 px-2 mr-[8px]">
             Rainbow 2023 Release</button><span
             class="text-[14px] leading-[20px] font-medium text-white tracking-[-0.01em] mr-[10px]">Join to waitlist</span>
-          <img src="@/assets/icons/arrow-right.svg" alt="" class="" />
+          <svg width="11" height="12" viewBox="0 0 11 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M8.28134 5.33312L4.70534 1.75712L5.64801 0.814453L10.8333 5.99979L5.64801 11.1851L4.70534 10.2425L8.28134 6.66645H0.166672V5.33312H8.28134Z"
+              fill="white" />
+          </svg>
         </div>
       </RouterLink>
 
