@@ -5,7 +5,7 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
 
 <template>
   <section class="bg-[#080841] pl-[40px] md:pl-[110px] pr-[40px] lg:pr-0 flex justify-between">
-    <div class="pb-[80px]">
+    <div class="pb-[80px]" data-aos="fade-right">
       <div class="w-[1.2px] h-[80px] mb-[24px] bg-white"></div>
       <h1
         class="text-[28px] xs:text-[48px] leading-[34px] xs:leading-[57px] max-w-[490px] font-tomato text-white"
@@ -26,6 +26,6 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         </div>
       </div>
     </div>
-    <img src="@/assets/images/home/cta.png" alt="" class="hidden lg:block h-[470px]">
+    <img src="@/assets/images/home/cta.png" alt="" class="hidden lg:block h-[470px]" data-aos="zoom-in">
   </section>
 </template>

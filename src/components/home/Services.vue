@@ -8,7 +8,7 @@
     >
       We Power Venture Scale in Africa
     </h2>
-    <div class="flex items-center justify-center flex-wrap mt-[48px]">
+    <div class="flex items-center justify-center flex-wrap mt-[48px]" data-aos="fade-up">
       <div class="p-[8px] sm:p-[12px]">
         <div class="px-[42px] py-[58px] bg-white rounded-[32px]">
           <img src="@/assets/images/home/services/growth.svg" alt="" class="" />

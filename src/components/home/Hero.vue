@@ -6,33 +6,29 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
 <template>
   <section class="hero pt-[145px] overflow-hidden relative min-h-[calc(100vh_-_80px)]">
     <div class="flex flex-col items-center px-[20px] mb-[200px] xs:mb-[300px] md:mb-[350px] xl:mb-[420px]">
-      <RouterLink to="/about" class=""
-        ><div
-          class="badge-container px-[10px] py-[6px] flex items-center w-fit"
-        >
+      <RouterLink to="/about" class="" data-aos="zoom-in" data-aos-delay="80">
+        <div class="badge-container px-[10px] py-[6px] flex items-center w-fit">
           <button
-            class="text-[14px] leading-[20px] font-medium text-rb-dark tracking-[-0.01em] bg-[#EDEDF1] rounded-[20px] py-1 px-2 mr-[8px]"
-          >
-            Rainbow 2023 Release</button
-          ><span
-            class="text-[14px] leading-[20px] font-medium text-white tracking-[-0.01em] mr-[10px]"
-            >Join to waitlist</span
-          >
-          <img src="@/assets/icons/arrow-right.svg" alt="" class="" /></div
-      ></RouterLink>
+            class="text-[14px] leading-[20px] font-medium text-rb-dark tracking-[-0.01em] bg-[#EDEDF1] rounded-[20px] py-1 px-2 mr-[8px]">
+            Rainbow 2023 Release</button><span
+            class="text-[14px] leading-[20px] font-medium text-white tracking-[-0.01em] mr-[10px]">Join to waitlist</span>
+          <img src="@/assets/icons/arrow-right.svg" alt="" class="" />
+        </div>
+      </RouterLink>
 
       <h1
         class="text-[30px] sm:text-[48px] md:text-[64px] leading-[38px] sm:leading-[54px] md:leading-[68px] tracking-[-0.02em] font-semibold max-w-[835px] mt-[38px] font-tomato text-white text-center"
-      >
+        data-aos="fade-down">
         <span class="text-rb-main">Rainbow</span> is revolutionizing Global
         Commerce.
       </h1>
-      <p
-        class="text-[16px] sm:text-[20px] leading-[20px] sm:leading-[28px] tracking-[-0.014em] max-w-[580px] mt-[24px] text-white text-center"
-      >
+      <p class="text-[16px] sm:text-[20px] leading-[20px] sm:leading-[28px] tracking-[-0.014em] max-w-[580px] mt-[24px] text-white text-center"
+        data-aos="fade-up" data-aos-delay="10"  data-aos-easing="ease-in-out">
+
         Enabling global businesses to scale in Africa without paperwork
       </p>
-      <div class="flex items-center mt-[32px]">
+      <div class="flex items-center mt-[32px]" data-aos="fade-up" data-aos-delay="30" 
+        data-aos-easing="ease-in-out">
         <div class="mr-[16px]">
           <RouterLink to="/">
             <BoltBtn text="get started" />
@@ -45,11 +41,8 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         </div>
       </div>
     </div>
-    <img
-      src="@/assets/images/home/map.svg"
-      alt=""
-      class="absolute left-0 bottom-[0px] translate-y-[50%] xs:translate-y-[60%] block 2xl:hidden w-full"
-    />
+    <img src="@/assets/images/home/map.svg" alt=""
+      class="absolute left-0 bottom-[0px] translate-y-[50%] xs:translate-y-[60%] block 2xl:hidden w-full" />
   </section>
 </template>
 
@@ -59,6 +52,7 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .badge-container {
   background: rgba(255, 255, 255, 0.1);
 

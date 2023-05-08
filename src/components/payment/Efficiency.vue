@@ -2,7 +2,7 @@
   <section
     class="py-[64px] px-[25px] xs:px-[40px] sm:px-[60px] md:px-[90px] 2xl:px-[120px]"
   >
-    <div class="flex flex-col items-center">
+    <div class="flex flex-col items-center"  data-aos="fade-up">
       <button
         class="btn px-[8px] py-[6px] text-[14px] leading-[20px] max-w-[210px] font-medium bg-[#D9F9E6] text-[#2F9461] rounded-[20px] inline"
       >

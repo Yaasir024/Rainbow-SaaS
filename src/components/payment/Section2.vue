@@ -1,6 +1,6 @@
 <template>
   <section class="py-[64px] px-[25px] xs:px-[40px] sm:px-[60px] md:px-[120px]">
-    <div class="flex flex-col items-center">
+    <div class="flex flex-col items-center"  data-aos="fade-up">
       <button
         class="btn px-[8px] py-[6px] text-[14px] leading-[20px] max-w-[210px] font-medium bg-[#D9EAF9] rounded-[20px] inline"
       >
@@ -17,7 +17,7 @@
       No matter what project you're working on, we've got you covered with the best wireframe kits for any platform.
       </p>
     </div>
-    <div class="explore flex flex-wrap mt-[64px] overflow-hidden">
+    <div class="explore flex flex-wrap mt-[64px] overflow-hidden" data-aos="fade-up">
       <div class="p-[48px] flex-full lg:flex-50% flex flex-col justify-between">
         <h1
           class="text-[30px] sm:text-[48px] leading-[38px] sm:leading-[54px] font-semibold max-w-[400px] font-tomato text-rb-dark"
@@ -34,7 +34,7 @@
         <img src="@/assets/images/payment/transaction-history.png" alt="" class="" />
       </div>
     </div>
-    <div class="flex flex-wrap items-center justify-center mt-[64px]">
+    <div class="flex flex-wrap items-center justify-center mt-[64px]"  data-aos="fade-up">
         <div class="p-[12px]">
             <div class="">
                 <h2 class="text-[36px] leading-[54px] font-semibold font-tomato text-center text-rb-primary-900">Payment Options</h2>

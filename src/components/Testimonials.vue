@@ -1,9 +1,9 @@
 <template>
   <section class="py-[165px] px-[28px] xs:px-[40px] md:px-[60px] lg:px-[95px] 2xl:px-[120px] flex items-center flex-col md:flex-row">
-    <div class="md:flex-[50%]">
+    <div class="md:flex-[50%]" data-aos="fade-right">
       <img src="@/assets/images/testimonial/img1.png" alt="" class="max-h-[380px] md:max-h-full" />
     </div>
-    <div class="md:flex-[50%] md:ml-[40px] mt-[40px] md:mt-0">
+    <div class="md:flex-[50%] md:ml-[40px] mt-[40px] md:mt-0" data-aos="fade-left">
       <div class="flex items-center mb-[20px] md:mb-[30px]">
         <img
           src="@/assets/icons/Star.svg"

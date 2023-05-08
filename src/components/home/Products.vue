@@ -6,7 +6,7 @@
       class="hidden xs:block"
     />
     <!-- 1 -->
-    <div class="section-1 flex mt-[20px] w-full">
+    <div class="section-1 flex mt-[20px] w-full"  data-aos="fade-up">
       <div class="hidden xs:block">
         <button
           class="h-[36px] w-[36px] bg-[#62E4FF] rounded-full flex items-center justify-center ml-[-18px]"
@@ -95,7 +95,7 @@
       </div>
     </div>
     <!-- 2 -->
-    <div class="section-2 flex mt-[120px] w-full">
+    <div class="section-2 flex mt-[120px] w-full"  data-aos="fade-up">
       <div class="hidden xs:block">
         <button
           class="h-[36px] w-[36px] bg-[#62E4FF] rounded-full flex items-center justify-center ml-[-18px]"
@@ -172,7 +172,7 @@
       </div>
     </div>
     <!-- 3 -->
-    <div class="section-3 flex mt-[120px] w-full">
+    <div class="section-3 flex mt-[120px] w-full"  data-aos="fade-up">
       <div class="hidden xs:block">
         <button
           class="h-[36px] w-[36px] bg-[#FFB084] rounded-full flex items-center justify-center ml-[-18px]"
