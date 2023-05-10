@@ -9,7 +9,7 @@
         </button>
         <div class="w-[1.5px] h-full line-gradient"></div>
       </div>
-      <div class="xs:ml-[20px] md:ml-[68px]">
+      <div class="xs:ml-[20px] md:ml-[68px] flex-1">
         <span class="text-[20px] leading-[24px]"> Global Payment Service </span>
         <h1
           class="text-[32px] md:text-[48px] leading-[46px] md:leading-[57px] tracking-[0.02em] font-bold mt-[8px] max-w-[718px] font-tomato">
@@ -54,7 +54,7 @@
                 </div>
               </div>
             </div>
-            <div class="flex-1 mt-5 mx-auto lg:mt-0 lg:max-w-[475px] w-full max-h-[350px] lg:max-h-full">
+            <div class="flex-1 mt-5 lg:mt-0 lg:max-w-[475px] w-full max-h-[350px] lg:max-h-full">
               <img src="@/assets/images/home/products/img-1.png" alt="" class="w-full h-full" />
             </div>
           </div>
@@ -69,7 +69,7 @@
         </button>
         <div class="w-[1.5px] h-full line-gradient"></div>
       </div>
-      <div class="xs:ml-[20px] md:ml-[68px]">
+      <div class="xs:ml-[20px] md:ml-[68px] flex-1">
         <span class="text-[20px] leading-[24px]">
           In-country Business Incorporation
         </span>
@@ -108,7 +108,7 @@
               </div>
             </div>
             <div
-              class="flex-1 mt-5 mx-auto lg:mt-0 lg:max-w-[475px] w-full max-h-[350px] lg:max-h-full order-2 lg:order-1">
+              class="flex-1 mt-5 lg:mt-0 lg:max-w-[475px] w-full max-h-[350px] lg:max-h-full order-2 lg:order-1">
               <img src="@/assets/images/home/products/img-2.png" alt="" class="w-full h-full" />
             </div>
           </div>
@@ -123,7 +123,7 @@
         </button>
         <div class="w-[1.5px] h-full line-gradient"></div>
       </div>
-      <div class="xs:ml-[20px] md:ml-[68px]">
+      <div class="xs:ml-[20px] md:ml-[68px] flex-1">
         <span class="text-[20px] leading-[24px]">
           Payroll and Tax Compliance
         </span>
@@ -171,7 +171,7 @@
                 </div>
               </div>
             </div>
-            <div class="flex-1 mt-5 mx-auto lg:mt-0 lg:max-w-[475px] w-full max-h-[350px] lg:max-h-full">
+            <div class="flex-1 mt-5 lg:mt-0 lg:max-w-[475px] w-full max-h-[350px] lg:max-h-full">
               <img src="@/assets/images/home/products/img-3.png" alt="" class="w-full h-full" />
             </div>
           </div>

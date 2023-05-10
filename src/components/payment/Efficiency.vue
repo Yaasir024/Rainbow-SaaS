@@ -15,7 +15,7 @@
         automates business ops, and improves customer experience.
       </p>
     </div>
-    <div class="flex flex-col 2xl:flex-row mt-[120px] 2xl:mt-[180px]">
+    <div class="flex flex-col 2xl:flex-row mt-[25px] 2xl:mt-[180px]">
       <div class="flex-50% flex flex-wrap items-center justify-center mt-[64px] order-2 2xl:order-1">
         <div class="p-[12px] mb-[52px]">
           <div class="">

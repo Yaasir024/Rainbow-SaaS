@@ -4,7 +4,7 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
 </script>
 
 <template>
-  <section class="hero flex flex-col 2xl:flex-row justify-between bg-[#45DEFE]/20 pt-[80px] ">
+  <section class="hero flex flex-col 2xl:flex-row justify-between bg-[#45DEFE]/20 pt-[80px] overflow-hidden">
     <div class="flex flex-col items-center md:items-start pl-[40px] md:pl-[110px] pr-[40px] xl:pr-0 pt-[65px] pb-[156px]">
       <RouterLink to="/" class=""
         ><div
@@ -45,7 +45,7 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
         </div>
       </div>
     </div>
-    <img src="@/assets/images/home/cta.png" alt="" class="hidden 2xl:block h-[650px]">
+    <img src="@/assets/images/home/cta.png" alt="" class="hidden 2xl:block h-[665px] mb-[-20px]">
   </section>
 </template>
 

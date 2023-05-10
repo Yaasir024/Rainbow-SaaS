@@ -27,7 +27,7 @@
         </p>
       </div>
       <div class="flex-full lg:flex-50% flex justify-end">
-        <img src="@/assets/images/bizinc/bizinc-map.png" alt="" class="" />
+        <img src="@/assets/images/bizinc/bizinc-map.png" alt="" class="mt-[-10px]" />
       </div>
     </div>
     <div class="flex flex-wrap items-center justify-center mt-[64px]">

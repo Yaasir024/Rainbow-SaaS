@@ -24,6 +24,6 @@ import BorderBtn from "@/components/buttons/TypeBorder.vue";
         </div>
       </div>
     </div>
-    <img src="@/assets/images/home/cta.png" alt="" class="hidden lg:block h-[470px]" >
+    <img src="@/assets/images/home/cta.png" alt="" class="hidden lg:block h-[470px] mb-[-20px]" >
   </section>
 </template>
