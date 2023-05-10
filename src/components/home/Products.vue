@@ -20,9 +20,9 @@
           reliable payment collection infrastructure
         </h3>
         <div class="mt-[60px] bg-[#DEF9FF] border border-[#CADCE0] rounded-[30px] overflow-hidden w-full">
-          <div class="relative z-10 gap-5 lg:flex">
+          <div class="relative z-10 gap-5 lg:flex lg:justify-between">
             <div
-              class="flex-1 max-w-lg sm:mx-auto sm:text-center lg:max-w-max lg:text-left px-[30px] sm:px-[50px] py-[43px]">
+              class="flex-1 max-w-lg sm:text-center lg:max-w-max lg:text-left px-[30px] sm:px-[50px] py-[43px]">
               <div class="">
                 <h2
                   class="text-[24px] sm:text-[28px] md:text-[32px] leading-[30px] sm:leading-[38px] md:leading-[44px] font-semibold text-rb-primary-900 font-tomato">
@@ -82,9 +82,9 @@
           anywhere, eliminating complexity around paperwork
         </h3>
         <div class="mt-[60px] bg-[#FFEEDE] border border-[#FFEEDE] rounded-[30px] overflow-hidden w-full">
-          <div class="relative z-10 gap-5 lg:flex">
+          <div class="relative z-10 gap-5 lg:flex  lg:justify-between">
             <div
-              class="flex-1 max-w-lg sm:mx-auto sm:text-center lg:max-w-max lg:text-left px-[30px] sm:px-[50px] py-[43px] order-1 lg:order-2">
+              class="flex-1 max-w-lg sm:text-center lg:max-w-max lg:text-left px-[30px] sm:px-[50px] py-[43px] order-1 lg:order-2">
               <div class="">
                 <h2
                   class="text-[24px] sm:text-[28px] md:text-[32px] leading-[30px] sm:leading-[38px] md:leading-[44px] font-semibold text-rb-primary-900 font-tomato">
@@ -136,9 +136,9 @@
           in their local currencies
         </h3>
         <div class="mt-[60px] bg-[#DEFFDF] border border-[#DEFFDF] rounded-[30px] overflow-hidden w-full">
-          <div class="relative z-10 gap-5 lg:flex">
+          <div class="relative z-10 gap-5 lg:flex lg:justify-between">
             <div
-              class="flex-1 max-w-lg sm:mx-auto sm:text-center lg:max-w-max lg:text-left px-[30px] sm:px-[50px] py-[43px]">
+              class="flex-1 max-w-lg sm:text-center lg:max-w-max lg:text-left px-[30px] sm:px-[50px] py-[43px]">
               <div class="">
                 <h2
                   class="text-[24px] sm:text-[28px] md:text-[32px] leading-[30px] sm:leading-[38px] md:leading-[44px] font-semibold text-rb-primary-900 font-tomato">

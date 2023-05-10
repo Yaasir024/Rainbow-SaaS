@@ -17,7 +17,7 @@
     </div>
     <div class="flex flex-col 2xl:flex-row mt-[25px] 2xl:mt-[180px]">
       <div class="flex-50% flex flex-wrap items-center justify-center mt-[64px] order-2 2xl:order-1">
-        <div class="p-[12px] mb-[52px]">
+        <div class="p-[12px] mb-[40px]">
           <div class="">
             <h2 class="text-[30px] leading-[42px] font-semibold font-tomato text-rb-primary-900">
               Track Daily Sales
@@ -29,7 +29,7 @@
             </p>
           </div>
         </div>
-        <div class="p-[12px] mb-[52px]">
+        <div class="p-[12px] mb-[40px]">
           <div class="">
             <h2 class="text-[30px] leading-[42px] font-semibold font-tomato text-rb-primary-900">
               Instant Settlement
@@ -41,7 +41,7 @@
             </p>
           </div>
         </div>
-        <div class="p-[12px] mb-[52px]">
+        <div class="p-[12px] mb-[40px]">
           <div class="">
             <h2 class="text-[30px] leading-[42px] font-semibold font-tomato text-rb-primary-900">
               Manage inventory
@@ -53,7 +53,7 @@
             </p>
           </div>
         </div>
-        <div class="p-[12px] mb-[52px]">
+        <div class="p-[12px] mb-[40px]">
           <div class="">
             <h2 class="text-[30px] leading-[42px] font-semibold font-tomato text-rb-primary-900">
               Make Bill Payment
