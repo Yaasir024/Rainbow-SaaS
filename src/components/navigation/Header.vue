@@ -76,14 +76,9 @@ useClickOutside(productMenu, () => {
       </nav>
     </div>
     <div class="flex items-center">
-      <div class="mr-[30px]">
+      <div class="hidden md:block mr-[30px]">
         <RouterLink to="/">
-          <button class="text-rb-gray-500">Log in</button>
-        </RouterLink>
-      </div>
-      <div class="hidden lg:block">
-        <RouterLink to="/">
-          <MainBtn text="register" />
+          <MainBtn text="Get Started" />
         </RouterLink>
       </div>
       <div class="block lg:hidden">

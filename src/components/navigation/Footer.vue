@@ -23,9 +23,6 @@
           <li class="link mb-[8px]">
             <RouterLink to="/"> Contact </RouterLink>
           </li>
-          <li class="link">
-            <RouterLink to="/"> FAQ </RouterLink>
-          </li>
         </ul>
         <ul class=" mb-[20px]">
           <li class="alpha-black mb-[8px]">Legal</li>

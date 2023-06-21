@@ -8,7 +8,7 @@ import FullBtn from "@/components/buttons/TypeFull.vue";
     class="hero flex flex-col 2xl:flex-row justify-between bg-[#ffeede] pt-[80px] overflow-hidden"
   >
     <div class="flex flex-col items-center md:items-start  pl-[40px] md:pl-[110px] pr-[40px] xl:pr-0 pt-[65px] pb-[156px]">
-      <RouterLink to="/" class=""
+      <RouterLink to="/business-incorporation" class=""
         ><div
           class="badge-container px-[10px] py-[6px] flex items-center w-fit"
         >
